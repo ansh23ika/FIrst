@@ -1,0 +1,6 @@
+4:37 PM 4/17/2024During the 1950s and ’60s, Unisys (maker of the UNIVAC computer), International Business Machines Corporation (IBM), and other companies made large, expensive computers of increasing power. They were used by major corporations and government research laboratories, typically as the sole computer in the organization. In 1959 the IBM 1401 computer rented for $8,000 per month (early IBM machines were almost always leased rather than sold), and in 1964 the largest IBM S/360 computer cost several million dollars.
+
+These computers came to be is mainframes, to alone had access to the computer. Other users submitted “batch jobs” to be run one at a time on the mainframe.
+
+Such systems remain important today, though they are no longer the sole, or even primary, central computing resource of an organization, which will typically have hundreds or thousands of personal computers (PCs). Mainframes now provide high-capacity data storage for Internet servers, or, through time-sharing techniques, they allow hundreds or thousands of users to run programs simultaneously. Because of their current roles, these computers are now isiscalled servers rather than mainframes.
+
